@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">CyberCheems — personal GitHub profile</title>
+  <desc id="description">UESTC student exploring database and AI systems. Learning how systems work, one layer deeper.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#27342d" stroke-opacity=".36"/>
+    </pattern>
+    <linearGradient id="fade" x1="560" y1="0" x2="960" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172a22"/>
+      <stop offset="1" stop-color="#111916"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="310" rx="16" fill="#111916"/>
+  <rect x="550" width="410" height="310" rx="16" fill="url(#fade)"/>
+  <rect width="960" height="310" rx="16" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="959" height="309" rx="15.5" stroke="#304137"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="39" cy="31" r="4" fill="#c3897a"/>
+    <circle cx="55" cy="31" r="4" fill="#c9af70"/>
+    <circle cx="71" cy="31" r="4" fill="#8fbb98"/>
+    <text x="104" y="35" fill="#819789" font-size="11">~/Tyliav</text>
+    <text x="921" y="35" fill="#819789" font-size="10" text-anchor="end">PERSONAL README / 01</text>
+    <path d="M32 52H928" stroke="#2b3a31"/>
+    <text x="42" y="91" fill="#a8d7ae" font-size="11" letter-spacing="2">STUDENT · BUILDER · CURIOUS MIND</text>
+    <text x="42" y="191" fill="#a5b8aa" font-size="14">Learning how systems work,</text>
+    <text x="42" y="214" fill="#a5b8aa" font-size="14">one layer deeper.<tspan fill="#b9e5a1"> ▍</tspan></text>
+    <rect x="42" y="247" width="71" height="25" rx="5" fill="#233529" stroke="#3e5542"/>
+    <text x="77.5" y="263" fill="#bdd6bc" font-size="10" text-anchor="middle">UESTC</text>
+    <text x="129" y="263" fill="#819789" font-size="10">DATABASES / AI SYSTEMS / NOTES</text>
+    <g stroke="#698e72" stroke-width="1.5">
+      <path d="M711 127H668V196H711M807 127H850V196H807"/>
+      <path d="M759 162V180M759 217V237"/>
+      <path d="M711 196H728M790 196H807"/>
+    </g>
+    <g fill="#14241b" stroke="#648c6b" stroke-width="1.5">
+      <path d="M711 105V145C711 168 807 168 807 145V105"/>
+      <ellipse cx="759" cy="105" rx="48" ry="16" fill="#294632"/>
+      <path d="M711 125C711 147 807 147 807 125"/>
+      <rect x="634" y="180" width="77" height="33" rx="6"/>
+      <rect x="728" y="180" width="62" height="33" rx="6"/>
+      <rect x="807" y="180" width="77" height="33" rx="6"/>
+      <rect x="710" y="237" width="98" height="28" rx="6"/>
+    </g>
+    <g fill="#a8c4ad" font-size="10" text-anchor="middle">
+      <text x="672" y="201">storage</text>
+      <text x="759" y="201">index</text>
+      <text x="845" y="201">compute</text>
+      <text x="759" y="255">curiosity</text>
+    </g>
+    <text x="759" y="76" fill="#819789" font-size="9" text-anchor="middle" letter-spacing="2">UNDER THE HOOD</text>
+  </g>
+  <text x="39" y="150" fill="#eff3e9" font-size="51" font-weight="700" letter-spacing="-2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">CyberCheems<tspan fill="#b9e5a1">.</tspan></text>
+</svg>
